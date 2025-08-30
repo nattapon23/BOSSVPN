@@ -7,9 +7,3 @@ vless://b2ac5368-f369-4618-8762-107ed782c7d4@loma06.sry-vpn.com:8080?type=ws&pat
 
 
 
-
-vless://0bd59722-7bf3-4ad4-9757-ba2724607cf7@Nopro.twins-app.uk:80?host=nopro-nuwa.global.ssl.fastly.net&mode=auto&security=none&type=xhttp&path=%2FNuwa.Alnuwa&encryption=none#%F0%9F%90%87%20Twins%201.4%20S3
-vless://4d84f68f-de98-451f-91dd-ca56c86e0b9d@199.232.166.219:80?host=good2.global.ssl.fastly.net&mode=auto&security=none&type=xhttp&path=%2F&encryption=none#%F0%9F%90%87%20GoodVPN%209.2%20good2-vv2
-vless://a75b4829-1431-4fd8-84b6-944bb8623954@Nopro.twins-app.uk:80?host=nopro-nuwa.global.ssl.fastly.net&mode=auto&security=none&type=xhttp&path=%2FNuwa.Alnuwa&encryption=none#%F0%9F%90%87%20Twins%201.4%20S1
-vless://f0713915-21fb-4de4-b770-c26e44f82efc@Nopro.twins-app.uk:80?host=nopro-nuwa.global.ssl.fastly.net&mode=auto&security=none&type=xhttp&path=%2FNuwa.Alnuwa&encryption=none#%F0%9F%90%87%20Twins%201.4%20S2
-vless://65a3516d-56de-4605-905f-9e0ef37bd90f@3bb.dualstack.speedtestcustom.com:80?host=visperhost-ray-1.global.ssl.fastly.net&mode=auto&security=none&type=xhttp&path=%2F&encryption=none#%F0%9F%90%87%20Ayothaya%203.49%20S2%203BB

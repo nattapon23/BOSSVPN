@@ -1,7 +1,27 @@
+LOMA VPN
 vless://c90ac789-33ca-4243-9cf6-3c16fd159bcf@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-b8181r70
 vless://c39748fe-f574-407a-982a-81b77cf41a86@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-61hwkdta
 vless://78edcb0d-3e71-4d54-a56f-e81a4c9debd4@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-3c7bv2p0
 vless://b2ac5368-f369-4618-8762-107ed782c7d4@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-nbqjbwq5
+MADAM VPN
+vless://0944c7cd-52b1-4cc6-9968-12fa1c9e6933@inter1.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#inter01
+vless://60f88fe8-fa3c-47ab-bb76-d7cd5deeeef2@inter2.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#inter02
+vless://095ecc67-d3b4-4431-a0c6-50219eb8def5@inter3.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#inter03
+vless://41a99f67-b010-4483-a3b9-e83708fa577e@inter4.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#inter04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

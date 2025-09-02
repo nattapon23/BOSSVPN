@@ -7,12 +7,6 @@ vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?en
 vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#ais-v6
 
 
-cocoavpn-Daisy VPN-13.1
-vless://6fed9977-f745-4a84-aa82-5cb3e4c793de@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-vless://6fed9977-f745-4a84-aa82-5cb3e4c793de@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-vless://6fed9977-f745-4a84-aa82-5cb3e4c793de@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http
-
-
 GOOD VPN-10.0
 vless://7f9f1b05-68aa-41d0-b7aa-1172fa27f033@27.254.163.119:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#vipbm-ais-v1
 vless://383c7e29-7d97-4710-9423-7ac38a10e76f@27.254.163.177:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-v2

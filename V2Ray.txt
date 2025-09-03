@@ -16,9 +16,11 @@ vless://e64157e3-68c0-4a99-bf19-e0736c4c9ed2@103.230.123.213:80?type=tcp&path=%2
 Lomavpn 7.6
 vless://c36ede4d-6b2a-40eb-a83e-cce392fddc04@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-hu7lz58f
 vless://83eb7698-980a-4480-9191-1a7bb807ff0a@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-4uluroz3
+vless://32afee61-e47d-49b1-8d76-f734e53aceb4@loma-03.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-nlsaegsf
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtaTVnbWF5NnIiLAogICJhZGQiOiAibG9tYTA0LnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogImIxZGY1MzViLWJhMjAtNGJjYy04NGE4LWRmZTllODM4MjYwYSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9
 vless://78edcb0d-3e71-4d54-a56f-e81a4c9debd4@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-3c7bv2p0
 vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-uypiglu7
+vless://0d211079-c421-4ca4-a542-231e8897d4e1@lomavip.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-%E0%B9%80%E0%B8%A3%E0%B8%94%E0%B8%94%E0%B8%B5%E0%B9%89
 
 
 Namovpn-9.6

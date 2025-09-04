@@ -1,10 +1,10 @@
-9tailvpn-2.76
-vless://6fed9977-f745-4a84-aa82-5cb3e4c793de@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#ais-v1
-vless://6fed9977-f745-4a84-aa82-5cb3e4c793de@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#ais-v2
-vless://6fed9977-f745-4a84-aa82-5cb3e4c793de@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#ais-v3
-vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#ais-v4
-vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#ais-v5
-vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#ais-v6
+9tailvpn-2.77
+vless://9d15ea63-c424-48a7-a759-3130095a790b@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 1-Ready 🟢
+vless://9d15ea63-c424-48a7-a759-3130095a790b@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 2-Ready 🟢
+vless://9d15ea63-c424-48a7-a759-3130095a790b@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 3-Ready 🟢
+vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 4-MC สำหรับอัพเดท 🟢
+vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 5-MC สำหรับอัพเดท 🟢
+vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 6-MC สำหรับอัพเดท 🟢
 
 
 GOOD VPN-10.0
@@ -13,14 +13,13 @@ vless://383c7e29-7d97-4710-9423-7ac38a10e76f@27.254.163.177:8080?type=tcp&path=%
 vless://e64157e3-68c0-4a99-bf19-e0736c4c9ed2@103.230.123.213:80?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-play
 
 
-Lomavpn 7.9
-vless://c36ede4d-6b2a-40eb-a83e-cce392fddc04@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-hu7lz58f
-vless://83eb7698-980a-4480-9191-1a7bb807ff0a@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-4uluroz3
-vless://32afee61-e47d-49b1-8d76-f734e53aceb4@loma-03.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-nlsaegsf
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtaTVnbWF5NnIiLAogICJhZGQiOiAibG9tYTA0LnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogImIxZGY1MzViLWJhMjAtNGJjYy04NGE4LWRmZTllODM4MjYwYSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9
-vless://78edcb0d-3e71-4d54-a56f-e81a4c9debd4@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-3c7bv2p0
-vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-uypiglu7
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtcmxhNGczemYiLAogICJhZGQiOiAibG9tYTAzLnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogImY1OTg0OWE3LTE2OWQtNGQ4Ny1hMDQ5LTE3YzAwY2UxMjhiYSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9
+Lomavpn 8.0
+vless://c36ede4d-6b2a-40eb-a83e-cce392fddc04@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-hu7lz58f#AIS โปรเน็ตกันรั่ว-01
+vless://83eb7698-980a-4480-9191-1a7bb807ff0a@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-4uluroz3f#AIS โปรเน็ตกันรั่ว-02
+vless://32afee61-e47d-49b1-8d76-f734e53aceb4@loma-03.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-nlsaegsff#AIS โปรเน็ตกันรั่ว-03
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtaTVnbWF5NnIiLAogICJhZGQiOiAibG9tYTA0LnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogImIxZGY1MzViLWJhMjAtNGJjYy04NGE4LWRmZTllODM4MjYwYSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9f#AIS โปรเน็ตกันรั่ว-04
+vless://78edcb0d-3e71-4d54-a56f-e81a4c9debd4@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-3c7bv2p0f#AIS โปรเน็ตกันรั่ว-05
+vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-uypiglu7f#AIS โปรเน็ตกันรั่ว-06
 
 
 Namovpn-9.6

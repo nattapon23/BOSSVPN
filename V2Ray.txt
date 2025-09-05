@@ -14,10 +14,7 @@ vless://d5f5900f-c591-43a7-8437-c70edbe93e6b@th-87.twins-app.uk:80?path=%2Fvless
 vless://570c1202-e5f1-414a-a8b6-02351a596988@th-88.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#apptwins-ais04#Z-GAMMING | A🆇𝕊 04  (V2RAY)
 
 
-GOOD VPN-10.2
-vless://7f9f1b05-68aa-41d0-b7aa-1172fa27f033@27.254.163.119:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#vipbm-ais-v1#Z-GAMING-AIS-PLAY1(V2ray)
-vless://383c7e29-7d97-4710-9423-7ac38a10e76f@27.254.163.177:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-v2#Z-GAMING-AIS-PLAY2(V2ray)
-vless://e64157e3-68c0-4a99-bf19-e0736c4c9ed2@103.230.123.213:80?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#ais3-play#Z-GAMING-AIS-PLAY3(V2ray)
+
 
 
 Lomavpn 8.0
@@ -27,18 +24,6 @@ vless://32afee61-e47d-49b1-8d76-f734e53aceb4@loma-03.sry-vpn.com:8080?type=ws&pa
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtaTVnbWF5NnIiLAogICJhZGQiOiAibG9tYTA0LnNyeS12cG4uY29tIiwKICAicG9ydCI6IDgwODAsCiAgImlkIjogImIxZGY1MzViLWJhMjAtNGJjYy04NGE4LWRmZTllODM4MjYwYSIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJ0bHMiLAogICJzbmkiOiAid3d3LnNwZWVkdGVzdC5uZXQiLAogICJmcCI6ICJjaHJvbWUiLAogICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIgp9f#AIS โปรเน็ตกันรั่ว-04
 vless://78edcb0d-3e71-4d54-a56f-e81a4c9debd4@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-3c7bv2p0f#AIS โปรเน็ตกันรั่ว-05
 vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-uypiglu7f#AIS โปรเน็ตกันรั่ว-06
-
-
-Namovpn-9.6
-vless://ae6fb9dc-84b9-4514-b991-a5571fb6f8e1@103.86.49.130:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#namo-ais1#Z-GAMING-AIS-PLAY1(V2ray)
-vless://313cf990-ed18-4e53-be65-1d0f3ac4f2f1@116.204.183.37:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#namo-ais2#Z-GAMING-AIS-PLAY2(V2ray)
-vless://c890c183-a935-41a8-a4eb-e98ee72812da@103.234.236.190:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#namo-ais3#Z-GAMING-AIS-PLAY3(V2ray)
-
-
-Sathuvpn-12.9
-vless://2d78b575-550d-456b-9763-f59a99ac0538@103.86.49.218:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais-vv1#Z-GAMING-AIS-PLAY1(V2ray)
-vless://664fbffe-bfa0-4577-a02c-53e406346a18@27.254.163.144:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais-vv2#Z-GAMING-AIS-PLAY2(V2ray)
-vless://16e3b1a4-3206-4123-b9ff-3043c1fbd241@116.204.180.44:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#ais-vv3#Z-GAMING-AIS-PLAY3(V2ray)
 
 
 

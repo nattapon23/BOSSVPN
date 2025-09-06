@@ -43,10 +43,10 @@ vless://e404e660-72cd-41d4-9869-2d9cb39d3709@v2ray04.unc-vpn.online:8080?type=tc
 vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AisPlay05#🎮GAME_05_AiSPLAY+64K_(v2ray)
 
 
-
-
-
-
+XQVPN-1.35
+vless://0987654321@Bm.Xq-VpN.cOm:80?mode=auto&path=%2F&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=xhttp#AIS_%5BBM%5D#🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 🎮
+vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#AIS%20Play%20%5BBangmod%5D#🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 🎮
+vless://FREE@Bm.Xq-VpN.cOm:80?mode=auto&path=%2F&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=xhttp#AIS_%5BBM%5D#🟩 [FREE] [ÄĮŚ] โปร กันเงินรั่ว [เพิ่มสปีด] 🎮
 
 
 

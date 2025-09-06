@@ -1,4 +1,4 @@
-"{
+{"{
   "dns": {
     "hosts": {
       "domain:googleapis.cn": "googleapis.com",
@@ -253,9 +253,9 @@
       }
     ]
   }
-}"
+}"}
 ,
-"{
+{"{
   "dns": {
     "hosts": {
       "domain:googleapis.cn": "googleapis.com",
@@ -510,4 +510,4 @@
       }
     ]
   }
-}"
+}"}

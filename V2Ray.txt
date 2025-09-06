@@ -1,4 +1,4 @@
-9tailvpn-2.77 , Darumavpn-3.14 AIS V2Ray
+9tailvpn 2.77 - Darumavpn - NINE TAIL VPN 3.14  AIS V2Ray
 vless://9d15ea63-c424-48a7-a759-3130095a790b@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 1-Ready 🟢
 vless://9d15ea63-c424-48a7-a759-3130095a790b@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 2-Ready 🟢
 vless://9d15ea63-c424-48a7-a759-3130095a790b@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 3-Ready 🟢
@@ -7,14 +7,16 @@ vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?en
 vless://91b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#TH AIS-AisPlay 6-MC สำหรับอัพเดท 🟢
 
 
-Daisy VPN-8.1
+AYOTHAYA 3.54
+vless://b679d67c-5b14-41ca-9dbe-5830fb127d8e@readyidc-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#03📺Ais_Play 1
+vless://9123d722-01f4-4af7-a747-e5ff81caa13f@visperhost-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#03📺Ais_Play 2
+
+
+Daisy VPN 8.1 - TWINS VPN 12.7
 vless://5c6e32ce-e3c1-4e3b-95c5-209d9427c491@th-85.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#apptwins-ais01#Z-GAMMING | A🆇𝕊 01  (V2RAY)
 vless://452b9c5b-de3e-4337-83b3-23175cbe7958@th-86.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#apptwins-ais02#Z-GAMMING | A🆇𝕊 02  (V2RAY)
 vless://d5f5900f-c591-43a7-8437-c70edbe93e6b@th-87.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#apptwins-ais03#Z-GAMMING | A🆇𝕊 03  (V2RAY)
 vless://570c1202-e5f1-414a-a8b6-02351a596988@th-88.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#apptwins-ais04#Z-GAMMING | A🆇𝕊 04  (V2RAY)
-
-
-
 
 
 Lomavpn 8.0
@@ -27,16 +29,18 @@ vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&pat
 
 
 
+THAIVPNCONNECT-13.8
+vless://b9c611ba-14c3-458b-93c6-c4260b468592@s6.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#sev6#1. 🟢 AISPLAY 01
+vless://a8dcf1b2-9efe-452e-a8d7-feb5f666c6bf@gomarketplacecontent-cf.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=s7.uappfiles.my.id&type=ws#ser7#2. 🟢 AISPLAY 02
+vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#ais#3. 🟢 AISPLAY 03
 
 
-
-
-
-
-
-
-
-
+UNC VPN-6
+vless://733d6cd9-c6d9-483a-92f8-e87b35bfc97b@v2ray01.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#AisPlay01#🎮GAME_01_AiSPLAY+64K_(v2ray)
+vless://a7951bb6-d6d6-4f6f-8457-cf84d85d925a@v2ray02.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#AisPlay02#🎮GAME_02_AiSPLAY+64K_(v2ray)
+vless://51466b5e-b041-493c-bba7-5c07d3fd406e@v2ray03.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#AisPlay03#🎮GAME_03_AiSPLAY+64K_(v2ray)
+vless://e404e660-72cd-41d4-9869-2d9cb39d3709@v2ray04.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#AisPlay04#🎮GAME_04_AiSPLAY+64K_(v2ray)
+vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#AisPlay05#🎮GAME_05_AiSPLAY+64K_(v2ray)
 
 
 

@@ -1,4 +1,6 @@
 {
+"Servers": [
+{
       "Name": "Dtac-Gaming-SSH-FREE-1",
       "FLAG": "th",
       "ServerIP": "siamdata5.gameinter.shop",
@@ -72,3 +74,5 @@
       "isV2ray": "true",
       "tunnelT": "V2RAY"
     }
+]
+}

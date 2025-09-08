@@ -19,11 +19,6 @@ vless://d5f5900f-c591-43a7-8437-c70edbe93e6b@th-87.twins-app.uk:80?path=%2Fvless
 vless://570c1202-e5f1-414a-a8b6-02351a596988@th-88.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#apptwins-ais04#Z-GAMMING | A🆇𝕊 04  (V2RAY)
 
 
-INSAN VPN-9
-vless://b9c611ba-14c3-458b-93c6-c4260b468592@s6.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&encryption=none&host=www.speedtest.net&type=ws#Ais-AISPLAY-FREE01
-
-
-
 Lomavpn 8.0
 vless://c36ede4d-6b2a-40eb-a83e-cce392fddc04@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-hu7lz58f#AIS โปรเน็ตกันรั่ว-01
 vless://83eb7698-980a-4480-9191-1a7bb807ff0a@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-4uluroz3f#AIS โปรเน็ตกันรั่ว-02

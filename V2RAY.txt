@@ -20,7 +20,7 @@ vless://570c1202-e5f1-414a-a8b6-02351a596988@th-88.twins-app.uk:80?path=%2Fvless
 
 
 INSAN VPN-9
-vless://b9c611ba-14c3-458b-93c6-c4260b468592@s6.uappfiles.my.id:80/?security=none&encryption=none&headerType=none&type=ws&flow=none&host=www.speedtest.net&path=%252fvless#Ais-AISPLAY-FREE01
+vless://b9c611ba-14c3-458b-93c6-c4260b468592@s6.uappfiles.my.id:80/?security=none&encryption=none&headerType=none&type=ws&flow=none&host=www.speedtest.net&path=%2fvless#Ais-AISPLAY-FREE01
 
 
 Lomavpn 8.0

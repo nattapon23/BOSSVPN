@@ -61,7 +61,7 @@ vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?securit
 
 
 XQVPN-1.35
-vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#AIS%20Play%20%5BBangmod%5D#XQVPN 🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 🎮AIS%20Play%20%5BBangmod%5D
+vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#AIS%20Play%20%5BBangmod%5D#XQVPN 🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 
 
 
 

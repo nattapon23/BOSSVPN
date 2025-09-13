@@ -55,7 +55,7 @@ vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless
 UNC VPN-6.3
 vless://733d6cd9-c6d9-483a-92f8-e87b35bfc97b@v2ray01.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay01#🎮GAME_01_AiSPLAY+64K_(v2ray)
 vless://a7951bb6-d6d6-4f6f-8457-cf84d85d925a@v2ray02.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay02#🎮GAME_02_AiSPLAY+64K_(v2ray)
-vless://51466b5e-b041-493c-bba7-5c07d3fd406e@v2ray03.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay03#🎮GAME_03_AiSPLAY+64K_(v2ray)
+-#UNC VPN AisPlay03#🎮GAME_03_AiSPLAY+64K_(v2ray)
 vless://e404e660-72cd-41d4-9869-2d9cb39d3709@v2ray04.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay04#🎮GAME_04_AiSPLAY+64K_(v2ray)
 vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#UNC VPN AisPlay05#🎮GAME_05_AiSPLAY+64K_(v2ray)
 

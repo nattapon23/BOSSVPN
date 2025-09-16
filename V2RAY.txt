@@ -35,6 +35,11 @@ vless://d5f5900f-c591-43a7-8437-c70edbe93e6b@th-87.twins-app.uk:80?path=%2Fvless
 vless://570c1202-e5f1-414a-a8b6-02351a596988@th-88.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#apptwins-ais04#Z-GAMMING | A🆇𝕊 04  (V2RAY)
 
 
+GOOD VPN-10.5
+vless://cfd6aec4-e960-4717-8932-c3810449a0ef@116.204.183.126:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS1(สำหรับเล่นเกมส์)
+vless://967eb072-7eb7-4c59-a7c6-71cb899a828a@103.169.67.58:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS2(สำหรับเล่นเกมส์)
+
+
 LOMA VPN 8.1
 vless://c36ede4d-6b2a-40eb-a83e-cce392fddc04@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-hu7lz58f#LOMA VPN AIS โปรเน็ตกันรั่ว-01
 vless://83eb7698-980a-4480-9191-1a7bb807ff0a@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-4uluroz3f#LOMA VPN AIS โปรเน็ตกันรั่ว-02

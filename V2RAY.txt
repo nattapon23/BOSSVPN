@@ -60,6 +60,13 @@ vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&pat
 vless://02ef03e2-f1eb-4eed-82e1-a744900fb2be@code.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#Code-admin#LOMA VPN AIS โปรเน็ตกันรั่ว-07
 
 
+MADAM VPN 5.2
+vless://0944c7cd-52b1-4cc6-9968-12fa1c9e6933@inter1.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#MADAM VPN Thailand 01 AIS
+vless://60f88fe8-fa3c-47ab-bb76-d7cd5deeeef2@inter2.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#MADAM VPN Thailand 02 AIS
+vless://095ecc67-d3b4-4431-a0c6-50219eb8def5@inter3.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#MADAM VPN Thailand 03 AIS
+vless://41a99f67-b010-4483-a3b9-e83708fa577e@inter4.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#MADAM VPN Thailand 04 AIS
+
+
 NAMOVPN-10.4
 vless://5ab7af04-e221-4d55-9b07-a9378c5a1714@103.86.49.130:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS1(สำหรับเล่นเกมส์)
 vless://284bb329-8667-42d8-95be-920592c48448@116.204.183.37:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS2(สำหรับเล่นเกมส์)

@@ -89,27 +89,6 @@ XQVPN-1.35
 vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#AIS%20Play%20%5BBangmod%5D#XQVPN 🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 
 
 
-hysteria
-hysteria://tot-2.wanghin.uk:443/?mport=60001-65534&insecure=1&auth=QewRichekafRo5if%3D-l_%3Ar%40nL5rab%2B6n*P%24PAsWub&upmbps=10000&downmbps=10000&obfs=xplus&obfsParam=siamvpn#Ayothaya%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%20TOT
-
-hysteria://readyidc-u-2.thaivpn.uk:443/?mport=60001-65534&insecure=1&auth=QewRichekafRo5if%3D-l_%3Ar%40nL5rab%2B6n*P%24PAsWub&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=siamvpn#Ayothaya%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%20readyidc%201-2
-
-hysteria://rd-s-2.misternut.uk:443/?mport=10000-50000&insecure=1&auth=nutudp%3ANut0114&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=agnudp#Darumavpn%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7
-
-hysteria://sing1.e-san-dns.com:443/?mport=10000-50000&insecure=1&auth=esan%3Aesan&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=esan#Esan%20SG%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%201-5
-
-hysteria://thai6.e-san-dns.com:443/?mport=10000-50000&insecure=1&auth=esan%3Aesan&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=esan#Esan%20TH%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%201-10
-
-hysteria://audp2.itimaek.online:443/?mport=10000-50000&insecure=1&auth=itim%3Aitim&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=itim#GoodVPN%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%201-2
-
-hysteria://mt01.hunmai.site:443/?mport=10000-50000&insecure=1&auth=mtvpn%3Amtvpn&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=agnudp#MTVPN%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%201-5
-
-hysteria://tmvh.co.ssh8.rovpn.uk:443/?mport=10000-50000&insecure=1&auth=qazx%3Aqazx&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=agnudp#O2OVPN%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7
-
-hysteria://7.vpndd.iovpn.me:443/?mport=10000-50000&insecure=1&auth=qazx%3Aqazx&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=agnudp#O2OVPN%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%202
-
-hysteria://ovpn12.saeng.shop:443/?mport=10000-50000&insecure=1&auth=ovpnth%3Aovpnth&upmbps=1000&downmbps=1000&obfs=xplus&obfsParam=agnudp#Pukangvpn%20Dtac%20true%20%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%A7%2012-15
-
 
 
 

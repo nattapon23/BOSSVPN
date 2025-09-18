@@ -79,6 +79,11 @@ vless://a8dcf1b2-9efe-452e-a8d7-feb5f666c6bf@gomarketplacecontent-cf.zoom.us:80?
 vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#ais#THAIVPNCONNECT 3. 🟢 AISPLAY 03
 
 
+OHM VPN-14.9
+vless://dfa4ca25-2ae6-4f01-a04c-f1f4535c4947@116.204.181.209:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais1-play
+vless://c7afcf6a-c512-4e46-aad5-0dfb1e779b61@116.204.183.68:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais2-play
+
+
 SATHUVPN-13.8
 vless://e51cca5e-131e-4cbf-9e26-6401639631e2@27.254.163.144:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS1(สำหรับเล่นเกมส์)
 vless://f54a9fda-830b-419c-bd54-ae552a42d238@116.204.180.44:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS2(สำหรับเล่นเกมส์)

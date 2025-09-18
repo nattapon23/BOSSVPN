@@ -50,11 +50,21 @@ vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&pat
 vless://02ef03e2-f1eb-4eed-82e1-a744900fb2be@code.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#Code-admin#LOMA VPN AIS โปรเน็ตกันรั่ว-07
 
 
+NAMOVPN-10.4
+vless://5ab7af04-e221-4d55-9b07-a9378c5a1714@103.86.49.130:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS1(สำหรับเล่นเกมส์)
+vless://284bb329-8667-42d8-95be-920592c48448@116.204.183.37:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS2(สำหรับเล่นเกมส์)
+vless://ba3fd6ee-0ecb-4941-81b4-02c2825243da@103.234.236.190:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS3(สำหรับเล่นเกมส์)
+
 
 THAIVPNCONNECT-13.8
 vless://b9c611ba-14c3-458b-93c6-c4260b468592@s6.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#sev6#THAIVPNCONNECT 1. 🟢 AISPLAY 01
 vless://a8dcf1b2-9efe-452e-a8d7-feb5f666c6bf@gomarketplacecontent-cf.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=s7.uappfiles.my.id&type=ws#ser7#THAIVPNCONNECT 2. 🟢 AISPLAY 02
 vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#ais#THAIVPNCONNECT 3. 🟢 AISPLAY 03
+
+
+SATHUVPN-13.8
+vless://e51cca5e-131e-4cbf-9e26-6401639631e2@27.254.163.144:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS1(สำหรับเล่นเกมส์)
+vless://f54a9fda-830b-419c-bd54-ae552a42d238@116.204.180.44:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS2(สำหรับเล่นเกมส์)
 
 
 UNC VPN-6.3

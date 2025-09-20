@@ -19,6 +19,11 @@ AYOTHAYA 3.54
 vless://b679d67c-5b14-41ca-9dbe-5830fb127d8e@readyidc-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#AYOTHAYA 03📺Ais_Play 1
 vless://9123d722-01f4-4af7-a747-e5ff81caa13f@visperhost-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#AYOTHAYA 03📺Ais_Play 2
 
+COCOAVPN-DAISY VPN-8.2
+vless://5c6e32ce-e3c1-4e3b-95c5-209d9427c491@th-85.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais01
+vless://452b9c5b-de3e-4337-83b3-23175cbe7958@th-86.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais02
+vless://d5f5900f-c591-43a7-8437-c70edbe93e6b@th-87.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais03
+
 
 GOOD VPN-10.5
 vless://cfd6aec4-e960-4717-8932-c3810449a0ef@116.204.183.126:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS1(สำหรับเล่นเกมส์)

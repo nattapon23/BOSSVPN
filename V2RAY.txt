@@ -17,8 +17,11 @@ AYOTHAYA 3.54
 vless://b679d67c-5b14-41ca-9dbe-5830fb127d8e@readyidc-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#AYOTHAYA 03📺Ais_Play 1
 vless://9123d722-01f4-4af7-a747-e5ff81caa13f@visperhost-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#AYOTHAYA 03📺Ais_Play 2
 
-COCOAVPN-DAISY VPN-8.2
-
+COCOAVPN-DAISY VPN-8.3
+vless://5c6e32ce-e3c1-4e3b-95c5-209d9427c491@th-85.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais01
+vless://452b9c5b-de3e-4337-83b3-23175cbe7958@th-86.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais02
+vless://d5f5900f-c591-43a7-8437-c70edbe93e6b@th-87.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais03
+vless://570c1202-e5f1-414a-a8b6-02351a596988@th-88.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais04
 
 
 GOOD VPN-10.5
@@ -68,9 +71,7 @@ vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?securit
 
 XQVPN-1.35
 vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#AIS%20Play%20%5BBangmod%5D#XQVPN 🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 
-
-
-
+vless://0987654321@Bm.Xq-VpN.cOm:80?mode=auto&path=%2F&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=xhttp#AIS_%5BBM%5D
 
 
 

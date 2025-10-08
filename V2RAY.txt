@@ -64,7 +64,7 @@ vless://f54a9fda-830b-419c-bd54-ae552a42d238@116.204.180.44:8080?type=tcp&path=%
 
 
 UNC VPN-6.4
-vless://733d6cd9-c6d9-483a-92f8-e87b35bfc97b@v2ray01.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay01
+#UNC VPN AisPlay01
 vless://a7951bb6-d6d6-4f6f-8457-cf84d85d925a@v2ray02.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay02
 vless://e404e660-72cd-41d4-9869-2d9cb39d3709@v2ray04.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay03
 vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#UNC VPN AisPlay04

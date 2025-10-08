@@ -22,7 +22,7 @@ COCOAVPN-DAISY VPN-8.5
 vless://cc617f25-dccc-4320-a16a-f20a8b9e67ba@th-80.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais01
 vless://c6cf590a-e0f3-45b8-8e24-6bd94398140d@th-69.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais02
 vless://f0b1b41f-e79a-4564-a2ce-c32634158c40@th-82.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais03
-vless://d54885ed-f668-4b0b-b5ac-51d17e668f44@th-90.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais04
+
 
 
 GOOD VPN-10.6
@@ -50,7 +50,7 @@ vless://7fe2eb4e-a085-4e27-b21a-593744b7cc42@s7.uappfiles.my.id:80?path=%2Fvless
 vless://5b07468c-911b-4f95-82e6-c1f331b1ffaf@s2.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 2. 🟢 AISPLAY
 vless://b9a92590-5471-42dd-be62-65d84dae2f46@s3.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 3. 🟢 AISPLAY
 vless://b13bfb54-15e3-4011-bf94-b81930289a91@s4.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 4. 🟢 AISPLAY
-vless://36083861-2861-4037-8528-d24fabe5725a@s1.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 5. 🟢 AISPLAY
+
 
 V13.8
 vless://a8dcf1b2-9efe-452e-a8d7-feb5f666c6bf@gomarketplacecontent-cf.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=s7.uappfiles.my.id&type=ws#ser7#THAIVPNCONNECT 6. 🟢 AISPLAY
@@ -77,6 +77,5 @@ vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?securit
 
 XQVPN-1.36
 vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#AIS%20Play%20%5BBangmod%5D#XQVPN 🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 
-vless://FREE@Bm.Xq-VpN.cOm:80?mode=auto&path=%2F&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=xhttp#XQVPN 🟩 [FREE] [ÄĮŚ] โปร กันเงินรั่ว [เพิ่มสปีด] 🎮
 
 

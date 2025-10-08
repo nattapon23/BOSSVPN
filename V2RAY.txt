@@ -10,9 +10,6 @@ vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?en
 443VPN-7.8
 vless://7a19bf1a-f657-458e-8001-f438159b9120@45.144.167.176:80/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=www.speedtest.net&headerType=http&security=none#443VPN Thailand 1 AIS PLAY 64K
 vless://baszaza5516@45.144.167.176:80/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=www.speedtest.net&headerType=http&security=none#443VPN Thailand 2 AIS PLAY 64K
-vless://4ce33d10-28d3-408b-961f-09c5a10f065a@th3.idc.kolal.my.id:80?security=none&encryption=none&type=ws&host=speedtest.net&path=/vless/#443VPN Thailand 3 AIS PLAY 64K
-
-
 
 
 AYOTHAYA 3.58
@@ -22,10 +19,10 @@ vless://5b5ed699-8412-407e-81f1-b449273837bd@readyidc-ray-2.thaivpn.uk:8080?type
 
 
 COCOAVPN-DAISY VPN-8.3
-#DAISY VPN apptwins-ais01
-#DAISY VPN apptwins-ais02
-#DAISY VPN apptwins-ais03
-#DAISY VPN apptwins-ais04
+vless://cc617f25-dccc-4320-a16a-f20a8b9e67ba@th-80.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais01
+vless://c6cf590a-e0f3-45b8-8e24-6bd94398140d@th-69.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais02
+vless://f0b1b41f-e79a-4564-a2ce-c32634158c40@th-82.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais03
+vless://d54885ed-f668-4b0b-b5ac-51d17e668f44@th-90.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais04
 
 
 GOOD VPN-10.5
@@ -39,8 +36,7 @@ vless://118ef6ce-768e-42b7-a119-6f4cbace953e@loma02.sry-vpn.com:8080?type=ws&pat
 vless://1a366ede-ca5b-482d-aff6-a6bc5b9b79f2@loma03.sry-vpn.com:8080?type=ws&encryption=none&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-03
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMzYzNiIsCiAgImFkZCI6ICJsb21hMDQuc3J5LXZwbi5jb20iLAogICJwb3J0IjogODA4MCwKICAiaWQiOiAiMjQyMTdmYzktNGI1Zi00M2I0LWE1YmItMzQ1NzM3YzExMDI0IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsCiAgImZwIjogImNocm9tZSIsCiAgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiCn0=#LOMA VPN AIS โปรเน็ตกันรั่ว-04
 vless://c077f61a-1529-482f-b665-40039bf29434@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-05
-vless://b2ac5368-f369-4618-8762-107ed782c7d4@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-06
-vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-06
+vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-06 v8.1
 
 
 NAMOVPN-10.4

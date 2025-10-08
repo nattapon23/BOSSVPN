@@ -39,7 +39,7 @@ vless://118ef6ce-768e-42b7-a119-6f4cbace953e@loma02.sry-vpn.com:8080?type=ws&pat
 vless://1a366ede-ca5b-482d-aff6-a6bc5b9b79f2@loma03.sry-vpn.com:8080?type=ws&encryption=none&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-03
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMzYzNiIsCiAgImFkZCI6ICJsb21hMDQuc3J5LXZwbi5jb20iLAogICJwb3J0IjogODA4MCwKICAiaWQiOiAiMjQyMTdmYzktNGI1Zi00M2I0LWE1YmItMzQ1NzM3YzExMDI0IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsCiAgImZwIjogImNocm9tZSIsCiAgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiCn0=#LOMA VPN AIS โปรเน็ตกันรั่ว-04
 vless://c077f61a-1529-482f-b665-40039bf29434@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-05
-vless://b2ac5368-f369-4618-8762-107ed782c7d4@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#AIS-uypiglu7f#LOMA VPN AIS โปรเน็ตกันรั่ว-06
+vless://b2ac5368-f369-4618-8762-107ed782c7d4@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-06
 
 
 NAMOVPN-10.4

@@ -36,7 +36,6 @@ vless://118ef6ce-768e-42b7-a119-6f4cbace953e@loma02.sry-vpn.com:8080?type=ws&pat
 vless://1a366ede-ca5b-482d-aff6-a6bc5b9b79f2@loma03.sry-vpn.com:8080?type=ws&encryption=none&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-03
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMzYzNiIsCiAgImFkZCI6ICJsb21hMDQuc3J5LXZwbi5jb20iLAogICJwb3J0IjogODA4MCwKICAiaWQiOiAiMjQyMTdmYzktNGI1Zi00M2I0LWE1YmItMzQ1NzM3YzExMDI0IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsCiAgImZwIjogImNocm9tZSIsCiAgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiCn0=#LOMA VPN AIS โปรเน็ตกันรั่ว-04
 vless://c077f61a-1529-482f-b665-40039bf29434@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-05
-vless://5aedf4f2-7991-489c-af1d-043e454fb34f@loma06.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-06 v8.1
 
 
 NAMOVPN-10.6
@@ -46,15 +45,12 @@ vless://ba3fd6ee-0ecb-4941-81b4-02c2825243da@103.234.236.190:8080?type=tcp&path=
 
 
 THAIVPNCONNECT-14.8
-vless://7fe2eb4e-a085-4e27-b21a-593744b7cc42@s7.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 1. 🟢 AISPLAY
+#THAIVPNCONNECT 1. 🟢 AISPLAY
 vless://5b07468c-911b-4f95-82e6-c1f331b1ffaf@s2.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 2. 🟢 AISPLAY
 vless://b9a92590-5471-42dd-be62-65d84dae2f46@s3.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 3. 🟢 AISPLAY
 vless://b13bfb54-15e3-4011-bf94-b81930289a91@s4.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 4. 🟢 AISPLAY
-
-
-V13.8
-vless://a8dcf1b2-9efe-452e-a8d7-feb5f666c6bf@gomarketplacecontent-cf.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=s7.uappfiles.my.id&type=ws#ser7#THAIVPNCONNECT 6. 🟢 AISPLAY
-vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#ais#THAIVPNCONNECT 7. 🟢 AISPLAY
+#THAIVPNCONNECT 6. 🟢 AISPLAY
+vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#ais#THAIVPNCONNECT 7. 🟢 AISPLAYV13.8
 
 
 OHM VPN-15.1

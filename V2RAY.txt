@@ -17,7 +17,7 @@ vless://5b5ed699-8412-407e-81f1-b449273837bd@readyidc-ray-2.thaivpn.uk:8080?type
 
 
 COCOAVPN-DAISY VPN-8.5
-vless://cc617f25-dccc-4320-a16a-f20a8b9e67ba@th-80.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais01
+#DAISY VPN apptwins-ais01
 vless://c6cf590a-e0f3-45b8-8e24-6bd94398140d@th-69.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais02
 vless://f0b1b41f-e79a-4564-a2ce-c32634158c40@th-82.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais03
 
@@ -47,8 +47,7 @@ THAIVPNCONNECT-14.8
 vless://5b07468c-911b-4f95-82e6-c1f331b1ffaf@s2.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 2. 🟢 AISPLAY
 vless://b9a92590-5471-42dd-be62-65d84dae2f46@s3.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 3. 🟢 AISPLAY
 vless://b13bfb54-15e3-4011-bf94-b81930289a91@s4.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 4. 🟢 AISPLAY
-#THAIVPNCONNECT 6. 🟢 AISPLAY
-vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#ais#THAIVPNCONNECT 7. 🟢 AISPLAYV13.8
+vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 5. 🟢 AISPLAYV13.8
 
 
 OHM VPN-15.1

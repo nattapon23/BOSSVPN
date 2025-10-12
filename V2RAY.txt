@@ -1,15 +1,13 @@
 9tailvpn 2.89 - Darumavpn - NINE TAIL VPN 3.14  AIS V2Ray
-vless://109f15a0-7820-40f6-8b74-e7ea227af355@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 1-Ready 🟢
-vless://109f15a0-7820-40f6-8b74-e7ea227af355@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 2-Ready 🟢
-vless://109f15a0-7820-40f6-8b74-e7ea227af355@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 3-Ready 🟢
+vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 1-Ready 🟢
+vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 2-Ready 🟢
+vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 3-Ready 🟢
+vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-16.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#TH AIS กันรั่ว 1-Ready 🟢🟢
+vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-8.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#TH AIS กันรั่ว 2-Ready 🟢🟢
+vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.readyidc-4.misterpnut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#TH AIS กันรั่ว 3-Ready 🟢🟢
 vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 4-MC สำหรับอัพเดท 🟢
 vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 5-MC สำหรับอัพเดท 🟢
 vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 6-MC สำหรับอัพเดท 🟢
-
-
-443VPN-7.8
-vless://7a19bf1a-f657-458e-8001-f438159b9120@45.144.167.176:80/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=www.speedtest.net&headerType=http&security=none#443VPN Thailand 1 AIS PLAY 64K
-vless://baszaza5516@45.144.167.176:80/?type=tcp&path=%2F%E0%B9%80%E0%B8%88%E0%B8%9F.%E0%B9%80%E0%B8%88%E0%B8%9F&host=www.speedtest.net&headerType=http&security=none#443VPN Thailand 2 AIS PLAY 64K
 
 
 AYOTHAYA 3.58
@@ -64,7 +62,7 @@ vless://f54a9fda-830b-419c-bd54-ae552a42d238@116.204.180.44:8080?type=tcp&path=%
 
 
 UNC VPN-6.4
-#UNC VPN AisPlay01
+vless://733d6cd9-c6d9-483a-92f8-e87b35bfc97b@v2ray01.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay01
 vless://a7951bb6-d6d6-4f6f-8457-cf84d85d925a@v2ray02.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay02
 vless://e404e660-72cd-41d4-9869-2d9cb39d3709@v2ray04.unc-vpn.online:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#UNC VPN AisPlay03
 vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#UNC VPN AisPlay04

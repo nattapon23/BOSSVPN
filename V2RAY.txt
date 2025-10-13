@@ -2,9 +2,7 @@
 vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 1-Ready 🟢
 vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 2-Ready 🟢
 vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 3-Ready 🟢
-vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-16.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#TH AIS กันรั่ว 1-Ready 🟢🟢
-vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-8.misternut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#TH AIS กันรั่ว 2-Ready 🟢🟢
-vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.readyidc-4.misterpnut.uk:443?security=tls&encryption=none&headerType=none&type=tcp&sni=www.speedtest.net#TH AIS กันรั่ว 3-Ready 🟢🟢
+
 vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 4-MC สำหรับอัพเดท 🟢
 vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 5-MC สำหรับอัพเดท 🟢
 vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 6-MC สำหรับอัพเดท 🟢

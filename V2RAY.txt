@@ -1,61 +1,75 @@
-9tailvpn 2.89 - Darumavpn - NINE TAIL VPN 3.14  AIS V2Ray
-vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 1-Ready 🟢
-vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 2-Ready 🟢
-vless://7f326f20-b937-4ba4-acf1-47fff26ff8c8@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 3-Ready 🟢
+9tailvpn 2.95 - Darumavpn - NINE TAIL VPN 3.14  AIS V2Ray
+vless://9f966638-c111-4a35-8046-5af209f30d92@www.opensignal.com.true-8.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 1-Ready 🟢
+vless://9f966638-c111-4a35-8046-5af209f30d92@www.opensignal.com.readyidc-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 2-Ready 🟢
+vless://9f966638-c111-4a35-8046-5af209f30d92@www.opensignal.com.true-16.misternut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 3-Ready 🟢
+vless://9f966638-c111-4a35-8046-5af209f30d92@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 4-MC สำหรับอัพเดท 🟢
+vless://9f966638-c111-4a35-8046-5af209f30d92@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 5-MC สำหรับอัพเดท 🟢
+vless://9f966638-c111-4a35-8046-5af209f30d92@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 6-MC สำหรับอัพเดท 🟢
 
-vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-2.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 4-MC สำหรับอัพเดท 🟢
-vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-3.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 5-MC สำหรับอัพเดท 🟢
-vless://81b0d0f9-43a5-4845-b982-24066e115d5b@mcloud-nut-4.misterpnut.uk:8080/?encryption=none&host=speedtest.net&path=%2F&type=tcp&headerType=http#9tailvpn TH AIS-AisPlay 6-MC สำหรับอัพเดท 🟢
 
-
-AYOTHAYA 3.58
+AYOTHAYA 3.72
 vless://bfb50e81-3133-4fdb-b717-07ff84ef34e4@readyidc-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#AYOTHAYA 📺Ais_Play 1
 vless://98cabf62-da2f-4891-9230-7b1c878b340c@visperhost-ray-1.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#AYOTHAYA 📺Ais_Play 2
 vless://5b5ed699-8412-407e-81f1-b449273837bd@readyidc-ray-2.thaivpn.uk:8080?type=tcp&encryption=none&host=www.speedtest.net&headerType=http#AYOTHAYA 📺Ais_Play 3
 
 
-COCOAVPN-DAISY VPN-8.5
-#DAISY VPN apptwins-ais01
-vless://c6cf590a-e0f3-45b8-8e24-6bd94398140d@th-69.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais02
-vless://f0b1b41f-e79a-4564-a2ce-c32634158c40@th-82.twins-app.uk:80?path=%2Fvless&security=none&encryption=none&host=cj-ebb.speedtest.net&type=ws#DAISY VPN apptwins-ais03
+COCOAVPN-DAISY VPN-9.7
+vless://59d8ac9d-c8dd-4242-a59a-513adf2c3446@vip-meownet.nuwa-vip.win:443?type=ws&encryption=none&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD_MeowNet&host=&security=none#DAISY VPN apptwins-ais01
+vless://afe7cf75-3659-46f6-a092-48cebc51438d@vip-meownet.nuwa-vip.win:443?type=ws&encryption=none&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD_MeowNet&host=&security=none#DAISY VPN apptwins-ais02
+vless://3f63af0e-8d67-42bd-b8f6-33311a03cff3@vip-meownet.nuwa-vip.win:443?type=ws&encryption=none&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD_MeowNet&host=&security=none#DAISY VPN apptwins-ais03
+vless://539cc69e-57d3-42b8-be93-71b50c8628d9@vip-meownet.nuwa-vip.win:443?type=ws&encryption=none&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD_MeowNet&host=&security=none#DAISY VPN apptwins-ais04
 
 
-
-GOOD VPN-10.6
-vless://cfd6aec4-e960-4717-8932-c3810449a0ef@116.204.183.126:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS1(สำหรับเล่นเกมส์)
-vless://967eb072-7eb7-4c59-a7c6-71cb899a828a@103.169.67.58:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS2(สำหรับเล่นเกมส์)
-
-
-LOMA VPN 8.2
-vless://74aafa3a-965d-4175-a3c5-1e3deeec1dd8@loma01.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-01
-vless://118ef6ce-768e-42b7-a119-6f4cbace953e@loma02.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-02
-vless://1a366ede-ca5b-482d-aff6-a6bc5b9b79f2@loma03.sry-vpn.com:8080?type=ws&encryption=none&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-03
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJBSVMtMzYzNiIsCiAgImFkZCI6ICJsb21hMDQuc3J5LXZwbi5jb20iLAogICJwb3J0IjogODA4MCwKICAiaWQiOiAiMjQyMTdmYzktNGI1Zi00M2I0LWE1YmItMzQ1NzM3YzExMDI0IiwKICAic2N5IjogImF1dG8iLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsCiAgImZwIjogImNocm9tZSIsCiAgImFscG4iOiAiaDMsaDIsaHR0cC8xLjEiCn0=#LOMA VPN AIS โปรเน็ตกันรั่ว-04
-vless://c077f61a-1529-482f-b665-40039bf29434@loma05.sry-vpn.com:8080?type=ws&path=%2F&host=www.speedtest.net&security=none#LOMA VPN AIS โปรเน็ตกันรั่ว-05
+GOOD VPN-11.2
+vless://5f8d03e9-4ec7-4689-b5c3-9da70d93368a@116.204.183.126:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS1(สำหรับเล่นเกมส์)
+vless://c2fc4758-d744-482d-8141-8d43e23b360b@103.169.67.58:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS2(สำหรับเล่นเกมส์)
+vless://012b944f-0f57-4a8d-885a-e42fd3b8ff57@116.204.181.186:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS3(สำหรับเล่นเกมส์)
+vless://bbedfc33-1471-4032-a275-80dceb26687b@116.204.183.176:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#GOODVPN Z-AIS4(สำหรับเล่นเกมส์)
 
 
-NAMOVPN-10.6
-vless://5ab7af04-e221-4d55-9b07-a9378c5a1714@103.86.49.130:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS1(สำหรับเล่นเกมส์)
-vless://284bb329-8667-42d8-95be-920592c48448@116.204.183.37:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS2(สำหรับเล่นเกมส์)
-vless://ba3fd6ee-0ecb-4941-81b4-02c2825243da@103.234.236.190:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS3(สำหรับเล่นเกมส์)
+MADAM VPN 5.4
+vless://2e089348-bb86-4e32-b74a-b22bed28c30d@v11.uappfiles.my.id:443?security=tls&encryption=none&host=v11.uappfiles.my.id&headerType=none&type=tcp&sni=speedtest.net#MADAM VPN Thailand 01 AIS
+vless://bf080f62-8420-4202-8189-b28f35181239@v2.uappfiles.my.id:443?security=tls&encryption=none&host=v2.uappfiles.my.id&headerType=none&type=tcp&sni=speedtest.net#MADAM VPN Thailand 02 AIS
+vless://1f75b1ce-7842-4537-b3f4-aa032ca7d280@v3.uappfiles.my.id:443?security=tls&encryption=none&host=v3.uappfiles.my.id&headerType=none&type=tcp&sni=speedtest.net#MADAM VPN Thailand 03 AIS
 
 
-THAIVPNCONNECT-14.8
+NAMOVPN-11.1
+vless://56982a5e-fbb8-4729-a3ba-ed35a2cedae6@103.86.49.130:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS1(สำหรับเล่นเกมส์)
+vless://34b5dfab-8098-41d4-b2c7-d84d0a781ee6@116.204.183.37:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS2(สำหรับเล่นเกมส์)
+vless://d5795e2e-38ba-40a4-9da1-0073510404fe@103.234.236.190:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS3(สำหรับเล่นเกมส์)
+vless://80634ee5-603b-4f78-bd75-bfc9721ce671@103.86.49.63:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS4(สำหรับเล่นเกมส์)
+vless://b75952bc-050b-40b8-a1e5-68d526c7f369@103.230.123.16:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#NAMOVPN Z-AIS5(สำหรับเล่นเกมส์)
+
+
+TWINS VPN-6.6
+trojan://9huAwsjA6r@vip-meownet.nuwa-vip.win:80?type=ws&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2+MEowNet&host=cj-ebb.speedtest.net&security=none#TWINS VPN A🆇𝕊 | 01  (V2RAY)
+trojan://szjAskXWyf@vip-meownet.nuwa-vip.win:80?type=ws&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2+MEowNet&host=cj-ebb.speedtest.net&security=none#TWINS VPN A🆇𝕊 | 02  (V2RAY)
+trojan://Z9RisxoLXN@vip-meownet.nuwa-vip.win:80?type=ws&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2+MEowNet&host=cj-ebb.speedtest.net&security=none#TWINS VPN A🆇𝕊 | 03  (V2RAY)
+trojan://nXK9GLtBCh@vip-meownet.nuwa-vip.win:80?type=ws&path=%2F%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88%E0%B9%80%E0%B8%8A%E0%B9%88%E0%B8%B2+MEowNet&host=cj-ebb.speedtest.net&security=none#TWINS VPN A🆇𝕊 | 04  (V2RAY)
+
+
+THAIVPNCONNECT-16.5
 #THAIVPNCONNECT 1. 🟢 AISPLAY
-vless://5b07468c-911b-4f95-82e6-c1f331b1ffaf@s2.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 2. 🟢 AISPLAY
-vless://b9a92590-5471-42dd-be62-65d84dae2f46@s3.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 3. 🟢 AISPLAY
-vless://b13bfb54-15e3-4011-bf94-b81930289a91@s4.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 4. 🟢 AISPLAY
+#THAIVPNCONNECT 2. 🟢 AISPLAY
+#THAIVPNCONNECT 3. 🟢 AISPLAY
+#THAIVPNCONNECT 4. 🟢 AISPLAY
 vless://07359885-4c17-4102-bd59-f7abce371ca2@s5.uappfiles.my.id:80?path=%2Fvless&security=none&encryption=none&host=speedtest.net&type=ws#THAIVPNCONNECT 5. 🟢 AISPLAYV13.8
 
 
-OHM VPN-15.1
-vless://dfa4ca25-2ae6-4f01-a04c-f1f4535c4947@116.204.181.209:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais1-play
-vless://c7afcf6a-c512-4e46-aad5-0dfb1e779b61@116.204.183.68:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais2-play
+OHM VPN-15.6
+vless://4e4ae95e-2dbc-42fc-be90-8ac9d0a468e5@116.204.181.209:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais1-play
+vless://ffe891ab-d184-4744-944b-244ed70b6a20@116.204.183.68:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais2-play
+vless://93d73714-65b8-419b-a488-31934414ebaf@103.234.236.119:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais3-play
+vless://46119fe7-1250-4894-845d-e207e5cf6df1@103.234.236.146:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais4-play
+vless://dd9665dd-51e5-46c6-8803-2091b197f1e2@103.234.236.147:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#OHM VPN ais5-play
 
 
-SATHUVPN-13.9
+SATHUVPN-14.5
 vless://e51cca5e-131e-4cbf-9e26-6401639631e2@27.254.163.144:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS1(สำหรับเล่นเกมส์)
 vless://f54a9fda-830b-419c-bd54-ae552a42d238@116.204.180.44:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS2(สำหรับเล่นเกมส์)
+vless://114b9665-63de-44b7-acc9-ba9d6f4a0e21@116.204.182.247:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS3(สำหรับเล่นเกมส์)
+vless://86b8b6a5-6cd6-4511-a74a-e73efd984bac@116.206.125.41:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS4(สำหรับเล่นเกมส์)
+vless://3a540e1a-c4e9-4e1e-876e-45b718766bac@116.206.124.140:8080?type=tcp&encryption=none&path=%2F&host=www.speedtest.net&headerType=http&security=none#SATHUVPN Z-AIS5(สำหรับเล่นเกมส์)
 
 
 UNC VPN-6.4
@@ -65,7 +79,16 @@ vless://e404e660-72cd-41d4-9869-2d9cb39d3709@v2ray04.unc-vpn.online:8080?type=tc
 vless://4465da84-a3ba-4792-a675-e9d0dfbb53e6@v2ray05.unc-vpn.online:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#UNC VPN AisPlay04
 
 
-XQVPN-1.36
+V2OVPN-VPNDD-ROVPN-20.1
+vless://e490b6d1-11af-45cc-8d94-1aa25b4c59da@v2ray3.rovpn.uk:80?type=ws&path=%2F&host=www.speedtest.net&headerType=http&security=none#V2OVPN AIS กันรั่ว 01
+vless://65094902-5425-464d-9171-d3a69d9e1cbc@v2ray2.rovpn.uk:80?type=ws&path=%2F&host=www.speedtest.net&headerType=http&security=none#V2OVPN AIS กันรั่ว 02
+vless://90c3386f-b3bc-4811-95d6-1303c22023bd@v2ray1.rovpn.uk:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#V2OVPN AIS กันรั่ว 03
+vless://b9260d9c-af81-483c-a420-4f9b83ae29ec@v2ray0.rovpn.uk:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#V2OVPN AIS กันรั่ว 04
+
+
+XQVPN-1.42
 vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#AIS%20Play%20%5BBangmod%5D#XQVPN 🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play 
+vless://FREE@Bm.Xq-VpN.cOm:80?mode=auto&path=%2F&security=none&encryption=none&host=SpEeDtEsT.nEt&type=xhttp#XQVPN 🟩 [FREE] [ÄĮŚ] โปร ÄĮŚ Play
+vless://FREE@Bm.Xq-VpN.cOm:80?mode=auto&path=%2F&security=none&encryption=none&host=cJ-sPeEdTeSt.EbB.mY&type=xhttp#XQVPN 🟩 [FREE] [ÄĮŚ] โปร กันเงินรั่ว [เพิ่มสปีด]
 
 

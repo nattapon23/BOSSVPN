@@ -10,8 +10,8 @@ vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=
 
 Koko VPN
 vless://c24cf077-5903-4084-a372-9ef7cf477030@www.true.th:443?path=%2F&security=tls&encryption=none&host=dhy9t2ll6zt1s.cloudfront.net&fp=chrome&type=ws&sni=dhy9t2ll6zt1s.cloudfront.net#Koko VPN01
-vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws##Koko VPN02
-vless://18e9bc88-6b7d-4ca2-942f-57c1db6cd66f@www.true.th:443?path=%2F&security=tls&encryption=none&host=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&sni=d1yxsk0zprgivr.cloudfront.net##Koko VPN03
+vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#Koko VPN02
+vless://18e9bc88-6b7d-4ca2-942f-57c1db6cd66f@www.true.th:443?path=%2F&security=tls&encryption=none&host=d1yxsk0zprgivr.cloudfront.net&fp=chrome&type=ws&sni=d1yxsk0zprgivr.cloudfront.net#Koko VPN03
 
 
 

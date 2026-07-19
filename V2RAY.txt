@@ -3,7 +3,7 @@ vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?path=%2F&security=no
 vless://f8e56a6d-6e8d-447d-901b-4a511aecf29a@www.true.th:80?path=%2Fjuevpn&security=none&encryption=none&host=d1lnzdlpso56a0.cloudfront.net&type=ws#4GVPN D02
 vless://f27894bf-349c-44e6-a0ce-4c787e18476f@www.true.th:80?path=%2FGDkX4xpB%2F&security=none&encryption=none&host=duatoup3wk8q2.cloudfront.net&type=ws#4GVPN D03
 vless://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?path=%2Ffnetvpn2026&security=none&encryption=none&host=d3gxy6d0a9fs18.cloudfront.net&type=ws#4GVPN D04
-vless://f8e56a6d-6e8d-447d-901b-4a511aecf29a@www.true.th:80?path=%2Fjuevpn&security=none&encryption=none&host=d1lnzdlpso56a0.cloudfront.net&type=ws#4GVPN D05
+
 
 
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D01

@@ -3,3 +3,4 @@ vless://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?path=%2Ffnetvpn2026&
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D-03
 vless://2d291042-3716-44e1-8ddb-a39c94204699@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-1
 vless://0245eec5-232e-4896-b259-11b816fe2704@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-2
+vless://582a4ad9-ddac-49de-8856-651ec4078a8d@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-3

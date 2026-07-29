@@ -1,6 +1,6 @@
-vless://2d291042-3716-44e1-8ddb-a39c94204699@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?path=%2F&security=none&encryption=none&host=d2pwbkmfr5lxa4.cloudfront.net&type=ws#D01
 vless://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?path=%2Ffnetvpn2026&security=none&encryption=none&host=d3gxy6d0a9fs18.cloudfront.net&type=ws#D02
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@143.14.11.236:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#D03
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D04
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D05
+vless://2d291042-3716-44e1-8ddb-a39c94204699@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day

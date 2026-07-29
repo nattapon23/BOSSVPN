@@ -4,3 +4,4 @@ vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=no
 vless://2d291042-3716-44e1-8ddb-a39c94204699@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-1
 vless://0245eec5-232e-4896-b259-11b816fe2704@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-2
 vless://582a4ad9-ddac-49de-8856-651ec4078a8d@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-3
+vless://3df08fed-f7b9-4f13-8077-1c7c7dee8d19@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-4

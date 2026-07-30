@@ -8,7 +8,7 @@ vless://823c74dd-79d0-483c-9aa8-12121ff52890@www.true.th:80?encryption=none&secu
 vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?encryption=none&security=none&type=tcp&headerType=none#MY01
 
 
-vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D-03
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D-01
 
 
 vless://b75fc664-23e1-4fdb-a66d-2413904f36f4@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-1-1.40

@@ -5,6 +5,9 @@ vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?encryption=none&secu
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?encryption=none&security=none&type=ws&host=d7iwyzy9wpvuu.cloudfront.net&path=%2Fknl8#D-04
 vless://457ec30c-61d7-4636-a3e4-880879423a0a@www.true.th:80?encryption=none&security=none&type=ws&host=daitezofvdi7t.cloudfront.net&path=%2Fcmt#D-05
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@157.85.105.179:80?encryption=none&security=none&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#D-06
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@143.14.11.236:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#D-7
+vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#D-8
+
 
 
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D-01

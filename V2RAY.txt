@@ -4,7 +4,7 @@ vless://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?path=%2Ffnetvpn2026&
 vless://89c3b66f-c849-4602-a5a8-84b6f06af478@www.true.th:80?encryption=none&security=none&type=ws&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#D-03
 vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@www.true.th:80?encryption=none&security=none&type=ws&host=d7iwyzy9wpvuu.cloudfront.net&path=%2Fknl8#D-04
 vless://457ec30c-61d7-4636-a3e4-880879423a0a@www.true.th:80?encryption=none&security=none&type=ws&host=daitezofvdi7t.cloudfront.net&path=%2Fcmt#D-05
-vless://823c74dd-79d0-483c-9aa8-12121ff52890@www.true.th:80?encryption=none&security=none&type=ws&host=d2jsn602ldv5oy.cloudfront.net&path=%2Fkokyaw#d-06
+vless://823c74dd-79d0-483c-9aa8-12121ff52890@www.true.th:80?encryption=none&security=none&type=ws&host=d2jsn602ldv5oy.cloudfront.net&path=%2Fkokyaw#D-06
 vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443?encryption=none&security=none&type=tcp&headerType=none#MY01
 
 

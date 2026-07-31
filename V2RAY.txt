@@ -10,7 +10,3 @@ vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?encryption=none&se
 vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@www.true.th:80?path=%2F&security=none&encryption=none&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&type=ws#T-D-01
 
 
-vless://ada4c4ad-5cd4-4bfc-bca8-73884488affa@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-1-20.3
-vless://888b0aa5-aba8-45c4-892f-af64e3b237f8@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-2-20.4
-vless://2e6fb47d-52f8-417c-8163-1b09c44e8da1@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-3-20.4
-vless://bc3848b0-ef6c-4aa3-8fbb-5e37e369ab59@www.true.th:80?type=ws&path=%2F&host=d2ssiqpba7s356.cloudfront.net&security=none#D1gb/day-4-20.5

@@ -2,7 +2,7 @@ vless://63ae5b68-f6f8-432e-b440-d975053cfbc2@www.true.th:80?path=%2Fthan&securit
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?encryption=none&type=ws&host=d1lqmh9essu84u.cloudfront.net&headerType=none&path=%2F#D-02
 vless://968d8a36-f29d-4211-eca6-69a998b55401@www.true.th:80?encryption=none&type=ws&host=d3ufnxdbzpa7nk.cloudfront.net&headerType=none&path=%2F#D-03
 vless://e6d8ce83-ffea-4736-e91d-443523e972e5@www.true.th:80?encryption=none&type=ws&host=d3ufnxdbzpa7nk.cloudfront.net&headerType=none&path=%2F#D-04
-
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?&security=tls&fp=chrome&sni=d1yxsk0zprgivr.cloudfront.net&type=ws&headerType=none&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#D-05
 
 vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#D-T-01
 

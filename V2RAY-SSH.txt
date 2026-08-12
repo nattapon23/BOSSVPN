@@ -7,7 +7,7 @@ vless://f3a9b67e-ab11-432e-ad8a-c8909a9fe424@www.true.th:80?path=%2Fknl7&securit
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkQtMDYiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwNCiAgInBhdGgiOiAiL2h0dW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
 
 
-#A-01
+dns://ew0KICAicHMiOiAiR29vZFZQTiA5LjIgMS0xMCIsDQogICJhZGRyIjogInNsb3c4Lml0aW1hZWsub25saW5lIiwNCiAgIm5zIjogInNsb3c4Lml0aW1hZWsub25saW5lIiwNCiAgInB1YmtleSI6ICI1MjZiYWM4MDNiYmIwOWYxOWEzNmVhM2U0MjRjNjJjMDBmNzJlMGUzMzMwOGFjM2UxOGRkMWQzNTg5ZDUzYjcxIiwNCiAgInVzZXIiOiAiYWVrdnBuIiwNCiAgInBhc3MiOiAiYWVrdnBuIg0KfQ==
 
 
 ##################################################################################

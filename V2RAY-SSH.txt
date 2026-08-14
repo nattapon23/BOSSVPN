@@ -2,8 +2,6 @@ vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?encryption=none&type
 #Jaidee VPN.22.22
 vless://cb700418-90ba-4da0-b319-64a2d46f754e@www.true.th:80?path=%2Fkind1&security=none&encryption=none&host=d3saayob5cvi7l.cloudfront.net&type=ws#DTAC-02
 vless://69c943b0-9efa-4bcd-8651-b4c86964a850@www.true.th:80?path=%2Fkind1&security=none&encryption=none&host=d3saayob5cvi7l.cloudfront.net&type=ws#DTAC-03
-vless://8d1692f9-e726-43e7-850a-58a4fa42debb@www.true.th:80?path=%2Fknl7&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#DTAC-04
-vless://f3a9b67e-ab11-432e-ad8a-c8909a9fe424@www.true.th:80?path=%2Fknl7&security=none&encryption=none&host=d1g0jlrlppl8b0.cloudfront.net&type=ws#DTAC-05
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkQtMDYiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwNCiAgInBhdGgiOiAiL2h0dW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
 
 

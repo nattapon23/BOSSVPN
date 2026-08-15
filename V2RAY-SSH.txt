@@ -1,11 +1,12 @@
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?encryption=none&type=ws&host=d1lqmh9essu84u.cloudfront.net&headerType=none&path=%2F#DTAC-01
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#DTAC-01.01
 #Jaidee VPN.22.22
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRUQUMtMDIiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwNCiAgInBhdGgiOiAiL2h0dW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
 ##################################################################################
 #MMT VPN 21.0
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRUQUMtMDMiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMzE3NmI5Y2UtOGI4MS00YzBjLWUwZjgtNWY3OWMzMGE0NDgxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkMWcwamxybHBwbDhiMC5jbG91ZGZyb250Lm5ldCIsDQogICJwYXRoIjogIi9teW8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRUQUMtMDQiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiY2NmZmJhYTEtZDNkMS00ZjQwLWFmOGQtMzEyNzBmZTFjZWNjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwNCiAgInBhdGgiOiAiL2h0dW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#DTAC-05
+
 
 
 
@@ -99,11 +100,11 @@ ssh://svpn127:svpn127@ds6kdd2evf1b3.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyOU
 #MMT VPN.21.0
 ssh://jomovpn193:jomovpn193@d20hhgy6pw6h2r.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyOU6GD+h5lFt/L8DoHMpIls9V92UQ5EEQQUjVO/wu/6tcW+DJ3TgUHoEybFxB2uoQGvQdz4UjY1/w/GYRNY6gAbTArUzDhJrZngSJZ7IB4c7YNINal6UPJQTbKpXF3Ge54e3oglL5zswdsZUmhvOAd6d4rszUNE7da5Apj0ThYPH0beqKf0PWELSSTznj30xqDb1pC0jhAozqVk+pmqgTm+lwN/IakmkSFDmAIjKmBzCkwqRUdmRzvzrwxmHMzvP+vK8N+aG/+Ni8QJaPUdevoOpbD2eHXI9oOlyIxSUNerx/qlmyfF+jWiWjfFSEaQxTg1x7wkj4U3sknhBzwvvHTcn+NTNZoCgbAzwMTn1M8td88fVMsZt+q9IxmQnvK+sqAwSvTt4uzSilZ7wNrT1VKRl5Jq6kBhg8KS+IZVi4KkM4si6ChWkhLWMnQu1BJY3dnTIz5wes9TFkgVIIdogdW+EX3bFZFFOmC7BzhdKieh7ob737kjZF5lXYVmPwgUUHgEF6MJhfq1haDGdka3Q7c2R/Cql7aqC8M/tVBbl5P1LusVgILt6SxGDO8/JAt8CKqsIM7s4Wrn1addczAJg4=#DTAC%26TRUE-33
 
-ssh://jomovpn131:jomovpn131@d1g0jlrlppl8b0.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyOU6GD+h5lFt/L8DoHMpIls9V92UQ5EEQQUjVO/wu/6tcW+DJ3TgUHoEybFxB2uoQGvQdz4UjY1/w/GYRNY6gAbTArUzDhJrZngSJZ7IB4c7YNINal6UPJQTbKpXF3Ge54e3oglL5zswdsZUmhvOAd6d4rszUNE7da5Apj0ThYPH0beqKf0PWELSSTznj30xqDb1pC0jhAozqVk+pmqgTm+lwN/IakmkSFDmAIjKmBzCkwqRUdmRzvzrwxmHMzvP+vK8N+aG/+Ni8QJaPUdevoOpbD2eHXI9oOlyIxSUNerx/qlmyfF+jWiWjfFSEaQxTg1x7wkj4U3sknhBzwvvHTcn+NTNZoCgbAzwMTn1M8td88fVMsZt+q9IxmQnvK+sqAwSvTt4uzSilZ7wNrT1VKRl5Jq6kBhg8KS+IZVi4KkM4si6ChWkhLWMnQu1BJY3dnTIz5wes9TFkgVIIdogdW+EX3bFZFFOmC7BzhdKieh7ob737kjZF5lXYVmPwgUUHgEF6MJhfq1haDGdka3Q7c2R/Cql7aqC8M/tVBbl5P1LusVgILt6SxGDO8/JAt8CKqsIM7s4Wrn1addczAJg4=#DTAC%26TRUE-34
+#DTAC%26TRUE-34
 
-ssh://jomvpnssh:jomvpnssh@d9neydmd1pt5a.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyOU6GD+h5lFt/L8DoHMpIls9V92UQ5EEQQUjVO/wu/6tcW+DJ3TgUHoEybFxB2uoQGvQdz4UjY1/w/GYRNY6gAbTArUzDhJrZngSJZ7IB4c7YNINal6UPJQTbKpXF3Ge54e3oglL5zswdsZUmhvOAd6d4rszUNE7da5Apj0ThYPH0beqKf0PWELSSTznj30xqDb1pC0jhAozqVk+pmqgTm+lwN/IakmkSFDmAIjKmBzCkwqRUdmRzvzrwxmHMzvP+vK8N+aG/+Ni8QJaPUdevoOpbD2eHXI9oOlyIxSUNerx/qlmyfF+jWiWjfFSEaQxTg1x7wkj4U3sknhBzwvvHTcn+NTNZoCgbAzwMTn1M8td88fVMsZt+q9IxmQnvK+sqAwSvTt4uzSilZ7wNrT1VKRl5Jq6kBhg8KS+IZVi4KkM4si6ChWkhLWMnQu1BJY3dnTIz5wes9TFkgVIIdogdW+EX3bFZFFOmC7BzhdKieh7ob737kjZF5lXYVmPwgUUHgEF6MJhfq1haDGdka3Q7c2R/Cql7aqC8M/tVBbl5P1LusVgILt6SxGDO8/JAt8CKqsIM7s4Wrn1addczAJg4=#DTAC%26TRUE-35
+#DTAC%26TRUE-35
 
-ssh://d20hhgy6pw6h2r:d20hhgy6pw6h2r@d20hhgy6pw6h2r.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyOU6GD+h5lFt/L8DoHMpIls9V92UQ5EEQQUjVO/wu/6tcW+DJ3TgUHoEybFxB2uoQGvQdz4UjY1/w/GYRNY6gAbTArUzDhJrZngSJZ7IB4c7YNINal6UPJQTbKpXF3Ge54e3oglL5zswdsZUmhvOAd6d4rszUNE7da5Apj0ThYPH0beqKf0PWELSSTznj30xqDb1pC0jhAozqVk+pmqgTm+lwN/IakmkSFDmAIjKmBzCkwqRUdmRzvzrwxmHMzvP+vK8N+aG/+Ni8QJaPUdevoOpbD2eHXI9oOlyIxSUNerx/qlmyfF+jWiWjfFSEaQxTg1x7wkj4U3sknhBzwvvHTcn+NTNZoCgbAzwMTn1M8td88fVMsZt+q9IxmQnvK+sqAwSvTt4uzSilZ7wNrT1VKRl5Jq6kBhg8KS+IZVi4KkM4si6ChWkhLWMnQu1BJY3dnTIz5wes9TFkgVIIdogdW+EX3bFZFFOmC7BzhdKieh7ob737kjZF5lXYVmPwgUUHgEF6MJhfq1haDGdka3Q7c2R/Cql7aqC8M/tVBbl5P1LusVgILt6SxGDO8/JAt8CKqsIM7s4Wrn1addczAJg4=#DTAC%26TRUE-36
+#DTAC%26TRUE-36
 
 ##################################################################################
 #Y-Jaidee VPN.22.22

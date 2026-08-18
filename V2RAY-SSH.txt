@@ -7,8 +7,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRUQUMtMDIiLA0KICAiYWRkIjogInd3dy50cnVl
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRUQUMtMDMiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiMzE3NmI5Y2UtOGI4MS00YzBjLWUwZjgtNWY3OWMzMGE0NDgxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkMWcwamxybHBwbDhiMC5jbG91ZGZyb250Lm5ldCIsDQogICJwYXRoIjogIi9teW8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRUQUMtMDQiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiY2NmZmJhYTEtZDNkMS00ZjQwLWFmOGQtMzEyNzBmZTFjZWNjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwNCiAgInBhdGgiOiAiL2h0dW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
 
-vless://4ed6486a-725c-4351-9e2d-164afa12b80d@asia.xraypanel.my.id:443?path=%2F%E1%80%99%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%9E%E1%80%AF%E1%80%8A&security=tls&encryption=none&insecure=0&host=asia.xraypanel.my.id&type=ws&allowInsecure=0&sni=asia.xraypanel.my.id#DTAC-02
-
 
 
 ##################################################################################

@@ -1,5 +1,4 @@
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?encryption=none&type=ws&host=d1lqmh9essu84u.cloudfront.net&headerType=none&path=%2F#DTAC-01
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@www.true.th:443?encryption=none&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=d1yxsk0zprgivr.cloudfront.net&path=%2F#DTAC-01.01
 #Jaidee VPN.22.22
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRUQUMtMDIiLA0KICAiYWRkIjogInd3dy50cnVlLnRoIiwNCiAgInBvcnQiOiAiODAiLA0KICAiaWQiOiAiYTE1MGQ1NTQtZTk2Mi00NjMyLTgyOWYtZWU1ODNhZGEzZjk1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkN3B1NW16cjljNGIwLmNsb3VkZnJvbnQubmV0IiwNCiAgInBhdGgiOiAiL2h0dW4iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
 ##################################################################################
@@ -18,8 +17,7 @@ dns://ew0KICAicHMiOiAiTXktMDMiLA0KICAiYWRkciI6ICJrMy50aGFpbGFuZHNlcnZlci5teS5pZC
 
 ##################################################################################
 #TAIL.PRO.NET 4.68
-dns://ew0KICAicHMiOiAiTXktMDUiLA0KICAiYWRkciI6ICJyZC1zLTEubWlzdGVybnV0LnVrIiwNCiAgIm5zIjogIm5zLnJkLXMtMS5taXN0ZXJudXQudWsiLA0KICAicHVia2V5IjogIjk0M2NiN2FhNTU2ZjE3OTZkNzdmMjczZWRjNzM2OTNlMDk2ZGJkODk1YzRlMDliZDRmMjFmZDM4YTk3MTI3MjYiLA0KICAidXNlciI6ICJzc2gtdXNlci0xMTEiLA0KICAicGFzcyI6ICIhV0VzUEVwcjk1VXRSOHAzIWNSbGhlZlJpOUlyT2ZydURyTzIkZXdyYXRoNSZldDNFM2ViQE9tQTktQCRMMGVHIg0KfQ==
-dns://ew0KICAicHMiOiAiTXktMDYiLA0KICAiYWRkciI6ICJ3d3cub3BlbnNpZ25hbC5jb20udHJ1ZS0yMS5taXN0ZXJudXQudWsiLA0KICAibnMiOiAibnMud3d3Lm9wZW5zaWduYWwuY29tLnRydWUtMjEubWlzdGVybnV0LnVrIiwNCiAgInB1YmtleSI6ICI5NDNjYjdhYTU1NmYxNzk2ZDc3ZjI3M2VkYzczNjkzZTA5NmRiZDg5NWM0ZTA5YmQ0ZjIxZmQzOGE5NzEyNzI2IiwNCiAgInVzZXIiOiAic3NoLXVzZXItMTExIiwNCiAgInBhc3MiOiAiN1JPa0w5VTJfOVJJP3I4cCMqZVdlN2EwSVN1Sl9LSXM0RWRyP1FPN1I1NFJJVDdsWGltdS0xSGw/Ty1lVCRldiINCn0=
+
 ##################################################################################
 #
 
@@ -189,7 +187,7 @@ ssh://pnt2423:pnt2423@d17djwso7014do.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyO
 
 ssh://a12345:a12345@d2ufvdj9j42pkf.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyOU6GD+h5lFt/L8DoHMpIls9V92UQ5EEQQUjVO/wu/6tcW+DJ3TgUHoEybFxB2uoQGvQdz4UjY1/w/GYRNY6gAbTArUzDhJrZngSJZ7IB4c7YNINal6UPJQTbKpXF3Ge54e3oglL5zswdsZUmhvOAd6d4rszUNE7da5Apj0ThYPH0beqKf0PWELSSTznj30xqDb1pC0jhAozqVk+pmqgTm+lwN/IakmkSFDmAIjKmBzCkwqRUdmRzvzrwxmHMzvP+vK8N+aG/+Ni8QJaPUdevoOpbD2eHXI9oOlyIxSUNerx/qlmyfF+jWiWjfFSEaQxTg1x7wkj4U3sknhBzwvvHTcn+NTNZoCgbAzwMTn1M8td88fVMsZt+q9IxmQnvK+sqAwSvTt4uzSilZ7wNrT1VKRl5Jq6kBhg8KS+IZVi4KkM4si6ChWkhLWMnQu1BJY3dnTIz5wes9TFkgVIIdogdW+EX3bFZFFOmC7BzhdKieh7ob737kjZF5lXYVmPwgUUHgEF6MJhfq1haDGdka3Q7c2R/Cql7aqC8M/tVBbl5P1LusVgILt6SxGDO8/JAt8CKqsIM7s4Wrn1addczAJg4=#DTAC%26TRUE-74
 
-ssh://a12345:a12345@d2t1e34zp9jawg.cloudfront.net:443?u+fRSFV7ZzQTd2kgWG+TYwyOU6GD+h5lFt/L8DoHMpIls9V92UQ5EEQQUjVO/wu/6tcW+DJ3TgUHoEybFxB2uoQGvQdz4UjY1/w/GYRNY6gAbTArUzDhJrZngSJZ7IB4c7YNINal6UPJQTbKpXF3Ge54e3oglL5zswdsZUmhvOAd6d4rszUNE7da5Apj0ThYPH0beqKf0PWELSSTznj30xqDb1pC0jhAozqVk+pmqgTm+lwN/IakmkSFDmAIjKmBzCkwqRUdmRzvzrwxmHMzvP+vK8N+aG/+Ni8QJaPUdevoOpbD2eHXI9oOlyIxSUNerx/qlmyfF+jWiWjfFSEaQxTg1x7wkj4U3sknhBzwvvHTcn+NTNZoCgbAzwMTn1M8td88fVMsZt+q9IxmQnvK+sqAwSvTt4uzSilZ7wNrT1VKRl5Jq6kBhg8KS+IZVi4KkM4si6ChWkhLWMnQu1BJY3dnTIz5wes9TFkgVIIdogdW+EX3bFZFFOmC7BzhdKieh7ob737kjZF5lXYVmPwgUUHgEF6MJhfq1haDGdka3Q7c2R/Cql7aqC8M/tVBbl5P1LusVgILt6SxGDO8/JAt8CKqsIM7s4Wrn1addczAJg4=#DTAC%26TRUE-75
+#DTAC%26TRUE-75
 
 ##################################################################################
 #MT VPN 30

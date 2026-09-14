@@ -53,7 +53,6 @@ ssh://phyoevpn:phyoevpn@mmt4.kophyoe.online:22/?u+fRSFV7ZzQTd2kgWG+TY92TH+R6nGuB
 vless://99a4e8b2-4ef4-4cef-b280-8a4f503b699b@www.true.th:80?path=%2Fzaw03&security=none&encryption=none&host=d3btsffhrr9113.cloudfront.net&type=ws#DTAC-01
 vless://f4c5605a-8424-441e-b23d-d6384d012c28@www.true.th:80?path=%2F&security=none&encryption=none&host=d1lqmh9essu84u.cloudfront.net&type=ws#DTAC-02
 vless://1429a624-982f-47b2-dfae-d840964df907@www.true.th:80?path=%2F&security=none&encryption=none&host=d3ufnxdbzpa7nk.cloudfront.net&type=ws#DTAC-03
-vless://05f53797-bd04-4006-8a78-41c071e67837@assets.opensignal.com:80?path=%2Ftikvpn2%2F&security=none&encryption=none&host=d27g7kjkk3cw22.cloudfront.net%3Aassets.opensignal.com&type=ws#DTAC-04
 
 ##################################################################################
 
